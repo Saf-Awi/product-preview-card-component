@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [solution](https://github.com/Saf-Awi/product-preview-card-component)
-- Live Site URL: [live site URL](https://your-live-site-url.com](https://saf-awi.github.io/product-preview-card-component/)
+- Live Site URL: [live site URL](https://saf-awi.github.io/product-preview-card-component/)
 
 ## My process
 
