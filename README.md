@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution]([https://your-solution-url.com](https://github.com/Saf-Awi/product-preview-card-component))
+- Solution URL: [solution](https://github.com/Saf-Awi/product-preview-card-component))
 - Live Site URL: [live site URL](https://your-live-site-url.com)
 
 ## My process
@@ -35,8 +35,7 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
-- CSS Grid
+
 
 
 
